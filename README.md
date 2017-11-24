@@ -1,0 +1,1 @@
+# xibei_fullscreen
